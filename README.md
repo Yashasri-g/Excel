@@ -1,4 +1,4 @@
-# Excel – Complete Analyst-Level Notes
+# Excel
 
 This repository contains a **comprehensive guide to Microsoft Excel** for data analysts, students, and professionals. It covers fundamental and advanced topics, including formulas, functions, data analysis, visualization, dashboard creation, automation, and workflow best practices.
 
