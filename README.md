@@ -4,7 +4,7 @@ This repository contains a **comprehensive guide to Microsoft Excel** for data a
 
 ## Repository Contents
 
-- `full notes.md` – Complete, structured Excel notes covering all essential topics:
+- `full notes.md` – Structured Excel notes covering all essential topics:
   - Excel basics, workbook, and sheet structure
   - Keyboard shortcuts for efficiency
   - Data management and cleaning techniques
